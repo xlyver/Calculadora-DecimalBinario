@@ -1,0 +1,6 @@
+c:\users\olyver\documents\visual studio 2012\Projects\Olyver DecimalBinario\Olyver DecimalBinario\bin\Debug\Olyver DecimalBinario.exe.config
+c:\users\olyver\documents\visual studio 2012\Projects\Olyver DecimalBinario\Olyver DecimalBinario\bin\Debug\Olyver DecimalBinario.exe
+c:\users\olyver\documents\visual studio 2012\Projects\Olyver DecimalBinario\Olyver DecimalBinario\bin\Debug\Olyver DecimalBinario.pdb
+c:\users\olyver\documents\visual studio 2012\Projects\Olyver DecimalBinario\Olyver DecimalBinario\obj\Debug\Olyver DecimalBinario.csprojResolveAssemblyReference.cache
+c:\users\olyver\documents\visual studio 2012\Projects\Olyver DecimalBinario\Olyver DecimalBinario\obj\Debug\Olyver DecimalBinario.exe
+c:\users\olyver\documents\visual studio 2012\Projects\Olyver DecimalBinario\Olyver DecimalBinario\obj\Debug\Olyver DecimalBinario.pdb
